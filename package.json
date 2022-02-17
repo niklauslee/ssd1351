@@ -1,0 +1,9 @@
+{
+  "name": "ssd1351",
+  "description": "Kaluma library for SSD1351 (16-bit Color OLED Display)",
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "simple-fonts": "git+https://github.com/niklauslee/simple-fonts.git"
+  }
+}
