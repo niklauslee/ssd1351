@@ -2,7 +2,7 @@
 
 Kaluma library for SSD1351 (16-bit Color OLED Display)
 
-![1582693180631.jpg](/api/projects/niklauslee/ssd1351/photos/1582693180631.jpg)
+![ssd1351](https://github.com/niklauslee/ssd1351/blob/main/images/ssd1351.jpg?raw=true)
 
 You can get OLED displays from belows:
 
@@ -23,7 +23,7 @@ Here is a wiring example for `SPI0`.
 |GP21               | RST            |
 |GP17               | CS             |
 
-![1615807102121.png](/api/projects/niklauslee/ssd1351/photos/1615807102121.png)
+![wiring](https://github.com/niklauslee/ssd1351/blob/main/images/wiring.png?raw=true)
 
 # Usage
 
